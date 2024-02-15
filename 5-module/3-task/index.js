@@ -28,7 +28,7 @@
       arrowLeft(target);
     } else if (target.classList.contains('carousel__arrow_right')) {
       arrowRight(target);
-    } else {}
+    }
 
   }
 
